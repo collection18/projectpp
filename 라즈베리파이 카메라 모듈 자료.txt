@@ -1,0 +1,3 @@
+https://blog.naver.com/icbanq/220932240604
+https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
+https://picamera.readthedocs.io/en/release-1.13/index.html
